@@ -1,0 +1,24 @@
+{
+  "name": "greenknowledge",
+  "version": "1.0.0",
+  "description": "Ein umweltfreundliches Projekt, mit GPS Funktion, für unterwegs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ty7ex/greenKnowledge.git"
+  },
+  "keywords": [
+    "green",
+    "knowledge",
+    "friendly"
+  ],
+  "author": "Matthias Heizmann <matthias@outlook.jp>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ty7ex/greenKnowledge/issues"
+  },
+  "homepage": "https://github.com/Ty7ex/greenKnowledge#readme"
+}
