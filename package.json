@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Ty7ex/greenKnowledge/issues"
   },
-  "homepage": "https://github.com/Ty7ex/greenKnowledge#readme"
+  "homepage": "https://github.com/Ty7ex/greenKnowledge#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0"
+  }
 }
