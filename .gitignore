@@ -1,3 +1,9 @@
+
 #################
 ## Default
 #################
+
+npm-debug.log
+public/footage
+node_modules/
+views/
